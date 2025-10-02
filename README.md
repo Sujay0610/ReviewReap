@@ -265,34 +265,6 @@ For support and questions:
 - Check the [documentation](docs/)
 - Review the API documentation at `/docs` endpoint
 
-## 🗺️ Roadmap
-
-### Phase 1 ✅
-- Basic customer management
-- CSV upload functionality
-- Campaign creation and execution
-- Authentication system
-
-### Phase 2 🚧
-- Email integration with Resend
-- Advanced campaign analytics
-- Customer segmentation
-
-### Phase 3 📋
-- WhatsApp Business API integration
-- Real-time messaging
-- Webhook support
-
-### Phase 4 📋
-- AI-powered response generation
-- Sentiment analysis
-- Advanced automation workflows
-
-### Phase 5 📋
-- Google Reviews integration
-- Multi-platform review management
-- Advanced reporting and analytics
-
 ---
 
 **Built with ❤️ for better customer engagement**
