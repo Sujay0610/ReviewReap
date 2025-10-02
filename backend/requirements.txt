@@ -1,0 +1,40 @@
+# Core Framework
+fastapi
+uvicorn[standard]
+
+# Database & ORM
+supabase
+sqlalchemy
+psycopg2-binary
+
+# Authentication
+python-jose[cryptography]
+passlib[bcrypt]
+
+# HTTP Client
+requests
+httpx
+
+# Environment & Configuration
+python-dotenv
+
+# CORS
+fastapi-cors
+
+# Data Validation
+pydantic
+
+# Utilities
+python-multipart
+
+# JSON Web Tokens
+PyJWT
+
+# Cryptography
+cryptography
+
+# Email Service
+resend
+
+# AI/ML
+openai>=1.40.0
